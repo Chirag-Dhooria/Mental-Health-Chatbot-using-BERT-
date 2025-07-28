@@ -1,0 +1,67 @@
+2025-07-29 00:22:13,113 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-29 00:22:36,215 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.30:5000
+2025-07-29 00:22:36,216 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-29 00:22:36,219 - INFO -  * Restarting with stat
+2025-07-29 00:22:39,981 - WARNING -  * Debugger is active!
+2025-07-29 00:22:39,983 - INFO -  * Debugger PIN: 737-051-005
+2025-07-29 00:22:40,123 - INFO - 127.0.0.1 - - [29/Jul/2025 00:22:40] "GET / HTTP/1.1" 200 -
+2025-07-29 00:22:40,299 - INFO - 127.0.0.1 - - [29/Jul/2025 00:22:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-29 00:23:01,121 - INFO - Chat interaction - Emotion: joy, Intent: greeting, Confidence: 0.81
+2025-07-29 00:23:01,123 - INFO - 127.0.0.1 - - [29/Jul/2025 00:23:01] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:23:09,105 - INFO - Chat interaction - Emotion: joy, Intent: morning, Confidence: 0.99
+2025-07-29 00:23:09,110 - INFO - 127.0.0.1 - - [29/Jul/2025 00:23:09] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:23:20,107 - INFO - Chat interaction - Emotion: sadness, Intent: sad, Confidence: 1.00
+2025-07-29 00:23:20,109 - INFO - 127.0.0.1 - - [29/Jul/2025 00:23:20] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:23:28,348 - INFO - Chat interaction - Emotion: sadness, Intent: no-response, Confidence: 0.81
+2025-07-29 00:23:28,349 - INFO - 127.0.0.1 - - [29/Jul/2025 00:23:28] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:23:40,853 - INFO - Chat interaction - Emotion: anger, Intent: default, Confidence: 0.51
+2025-07-29 00:23:40,855 - INFO - 127.0.0.1 - - [29/Jul/2025 00:23:40] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:26:27,366 - INFO -  * Detected change in 'C:\\Users\\Chirag\\Desktop\\College\\PROJECT\\Mental Health Chatbot\\chatbot.py', reloading
+2025-07-29 00:26:27,808 - INFO -  * Restarting with stat
+2025-07-29 00:26:34,434 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-29 00:30:20,314 - WARNING -  * Debugger is active!
+2025-07-29 00:30:20,317 - INFO -  * Debugger PIN: 737-051-005
+2025-07-29 00:31:16,138 - INFO - 127.0.0.1 - - [29/Jul/2025 00:31:16] "GET / HTTP/1.1" 200 -
+2025-07-29 00:31:22,079 - INFO - Chat interaction - Emotion: neutral, Intent: greeting, Confidence: 0.00
+2025-07-29 00:31:22,080 - ERROR - Error processing chat request: type numpy.ndarray doesn't define __round__ method
+2025-07-29 00:31:22,082 - INFO - 127.0.0.1 - - [29/Jul/2025 00:31:22] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-29 00:31:28,713 - INFO - Chat interaction - Emotion: neutral, Intent: greeting, Confidence: 0.00
+2025-07-29 00:31:28,714 - ERROR - Error processing chat request: type numpy.ndarray doesn't define __round__ method
+2025-07-29 00:31:28,715 - INFO - 127.0.0.1 - - [29/Jul/2025 00:31:28] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-29 00:31:36,892 - INFO - Chat interaction - Emotion: neutral, Intent: sad, Confidence: 0.00
+2025-07-29 00:31:36,892 - ERROR - Error processing chat request: type numpy.ndarray doesn't define __round__ method
+2025-07-29 00:31:36,894 - INFO - 127.0.0.1 - - [29/Jul/2025 00:31:36] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-29 00:32:42,796 - INFO - 127.0.0.1 - - [29/Jul/2025 00:32:42] "GET / HTTP/1.1" 200 -
+2025-07-29 00:32:46,513 - INFO - Chat interaction - Emotion: neutral, Intent: casual, Confidence: 0.00
+2025-07-29 00:32:46,514 - ERROR - Error processing chat request: type numpy.ndarray doesn't define __round__ method
+2025-07-29 00:32:46,515 - INFO - 127.0.0.1 - - [29/Jul/2025 00:32:46] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-07-29 00:33:22,968 - INFO -  * Detected change in 'C:\\Users\\Chirag\\Desktop\\College\\PROJECT\\Mental Health Chatbot\\app.py', reloading
+2025-07-29 00:33:23,475 - INFO -  * Restarting with stat
+2025-07-29 00:33:26,956 - WARNING -  * Debugger is active!
+2025-07-29 00:33:26,959 - INFO -  * Debugger PIN: 737-051-005
+2025-07-29 00:33:47,400 - INFO -  * Detected change in 'C:\\Users\\Chirag\\Desktop\\College\\PROJECT\\Mental Health Chatbot\\cli_chatbot.py', reloading
+2025-07-29 00:33:47,765 - INFO -  * Restarting with stat
+2025-07-29 00:33:50,295 - WARNING -  * Debugger is active!
+2025-07-29 00:33:50,298 - INFO -  * Debugger PIN: 737-051-005
+2025-07-29 00:33:56,160 - INFO -  * Detected change in 'C:\\Users\\Chirag\\Desktop\\College\\PROJECT\\Mental Health Chatbot\\chatbot.py', reloading
+2025-07-29 00:33:56,519 - INFO -  * Restarting with stat
+2025-07-29 00:33:58,753 - WARNING -  * Debugger is active!
+2025-07-29 00:33:58,756 - INFO -  * Debugger PIN: 737-051-005
+2025-07-29 00:34:25,152 - INFO - 127.0.0.1 - - [29/Jul/2025 00:34:25] "GET / HTTP/1.1" 200 -
+2025-07-29 00:34:32,208 - INFO - Chat interaction - Intent: greeting, Emotion: neutral, Intent Confidence: 0.06
+2025-07-29 00:34:32,210 - INFO - 127.0.0.1 - - [29/Jul/2025 00:34:32] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:34:47,533 - INFO - Chat interaction - Intent: happy, Emotion: joy, Intent Confidence: 0.04
+2025-07-29 00:34:47,536 - INFO - 127.0.0.1 - - [29/Jul/2025 00:34:47] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:34:53,508 - INFO - Chat interaction - Intent: greeting, Emotion: neutral, Intent Confidence: 0.04
+2025-07-29 00:34:53,510 - INFO - 127.0.0.1 - - [29/Jul/2025 00:34:53] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:35:06,225 - INFO - Chat interaction - Intent: casual, Emotion: joy, Intent Confidence: 0.05
+2025-07-29 00:35:06,227 - INFO - 127.0.0.1 - - [29/Jul/2025 00:35:06] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:35:24,705 - INFO - Chat interaction - Intent: greeting, Emotion: neutral, Intent Confidence: 0.04
+2025-07-29 00:35:24,706 - INFO - 127.0.0.1 - - [29/Jul/2025 00:35:24] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:35:31,362 - INFO - Chat interaction - Intent: casual, Emotion: sad, Intent Confidence: 0.04
+2025-07-29 00:35:31,365 - INFO - 127.0.0.1 - - [29/Jul/2025 00:35:31] "POST /chat HTTP/1.1" 200 -
+2025-07-29 00:35:41,032 - INFO - Chat interaction - Intent: greeting, Emotion: stress, Intent Confidence: 0.04
+2025-07-29 00:35:41,033 - INFO - 127.0.0.1 - - [29/Jul/2025 00:35:41] "POST /chat HTTP/1.1" 200 -
